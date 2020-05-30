@@ -13,6 +13,15 @@ This is basically a e-commerce shopping flutter app for the users. As a backend 
 - flutter animation 
 - all the flutter functionality is used. 
 
+## shop app screen images
+<p align="center">
+<img src="https://github.com/SuvamPrasd/flutter-shopping-app/blob/master/assests/images/Screenshot_20200530-093045.png" height="" width="20%">
+<img src="https://github.com/SuvamPrasd/flutter-shopping-app/blob/master/assests/images/Screenshot_20200530-093120.png" height="" width="20%">
+<img src="https://github.com/SuvamPrasd/flutter-shopping-app/blob/master/assests/images/Screenshot_20200530-093125.png" height="" width="20%">
+<img src="https://github.com/SuvamPrasd/flutter-shopping-app/blob/master/assests/images/Screenshot_20200530-093136.png" height="" width="20%">
+</p> 
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
