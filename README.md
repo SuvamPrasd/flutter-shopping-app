@@ -1,6 +1,17 @@
 # myshop
 
-A new Flutter project.
+This is basically a e-commerce shopping flutter app for the users. As a backend service we are using firebase to store products data, users authentication data, and purchase order data of the users.
+
+## Features
+
+- Sign in and sign up.
+- authentication listners and logout functionality.
+- view products
+- create your own products and place it in the app.
+- buy the products.
+- view the product status.
+- flutter animation 
+- all the flutter functionality is used. 
 
 ## Getting Started
 
